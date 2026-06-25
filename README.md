@@ -144,3 +144,36 @@ How to automate EC2 provisioning
 How to design fault-tolerant systems
 How AWS handles auto scaling under load
 How to implement real production-like architecture
+
+📊 Auto Scaling Behavior
+Normal Load
+2 EC2 Instances running
+High Load
+Auto Scaling adds new EC2 instances
+Low Load
+Instances are terminated automatically
+🧪 Validation
+
+✔ Target Group health checks passed
+✔ ALB DNS successfully reachable
+✔ EC2 instances registered automatically
+✔ Auto Scaling policies triggered correctly
+✔ CPU-based scaling verified
+
+📚 Skills Demonstrated
+AWS EC2
+AWS CLI Automation
+Amazon Machine Images (AMI)
+Application Load Balancer (ALB)
+Auto Scaling Groups (ASG)
+Launch Templates
+Cloud Architecture Design
+High Availability Systems
+Scalability Engineering
+🎓 Learning Outcomes
+
+📌 Author
+
+Paulo Henriue
+
+AWS Cloud Practitioner Candidate | Cloud & DevOps Enthusiast
