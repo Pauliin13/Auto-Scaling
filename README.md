@@ -38,7 +38,16 @@ Garantir alta disponibilidade entre múltiplas zonas de disponibilidade
 
 
 
+
 🏗 Arquitetura da Solução
+
+
+
+
+
+
+
+
 
 
                      Internet
@@ -57,6 +66,14 @@ Garantir alta disponibilidade entre múltiplas zonas de disponibilidade
                  Launch Template
                          │
                     Amazon Machine Image
+
+
+
+
+
+
+
+
 
 
 
