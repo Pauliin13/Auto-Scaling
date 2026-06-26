@@ -36,7 +36,11 @@ Testar aumento e redução automática das instâncias
 
 Garantir alta disponibilidade entre múltiplas zonas de disponibilidade
 
+
+
 🏗 Arquitetura da Solução
+
+
                      Internet
                          │
                 Application Load Balancer
@@ -53,6 +57,12 @@ Garantir alta disponibilidade entre múltiplas zonas de disponibilidade
                  Launch Template
                          │
                     Amazon Machine Image
+
+
+
+
+
+                     
 
 ⚙️ Serviços AWS Utilizados
 
