@@ -42,9 +42,7 @@ Garantir alta disponibilidade entre múltiplas zonas de disponibilidade
 🏗 Arquitetura da Solução
 
 
-
-
-                     Internet
+     Internet
                          │
                 Application Load Balancer
                          │
@@ -61,6 +59,8 @@ Garantir alta disponibilidade entre múltiplas zonas de disponibilidade
                          │
                     Amazon Machine Image
 
+
+                   
                      
 
 ⚙️ Serviços AWS Utilizados
