@@ -49,6 +49,8 @@ Garantir alta disponibilidade entre múltiplas zonas de disponibilidade
           ┌──────────────┴──────────────┐
           │                             │
      EC2 Instance                  EC2 Instance
+
+
    (Availability Zone A)      (Availability Zone B)
           │                             │
           └──────────────┬──────────────┘
