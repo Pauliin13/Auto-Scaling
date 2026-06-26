@@ -249,6 +249,9 @@ Arquiteturas semelhantes às utilizadas em ambientes de produção
 
 📂 Estrutura do Repositório
 
+
+
+
 aws-auto-scaling-lab
 │
 ├── README.md
@@ -269,6 +272,13 @@ aws-auto-scaling-lab
 │
 └── docs
     └── lab-notes.md
+
+
+
+
+
+
+
 
 📌 Autor
 Paulo Henrique
